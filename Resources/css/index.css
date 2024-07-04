@@ -1,0 +1,32 @@
+th{
+    text-align:left;
+    font-weight: bold;
+    font-size: larger;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h1, h2,table{
+    margin:0 auto;
+    margin-bottom: 50px;
+}
+
+h2{
+   color: purple;
+   font-weight: bold;
+   font-size: x-large;
+}
+
+h1{
+    font-size:xx-large;
+}
+
+table{
+    border:2px solid purple;
+}
+
+.first{
+    background-color: lightsteelblue;
+}
